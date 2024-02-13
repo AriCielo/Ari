@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ariannecielo-lifx",
+  "private_key_id": "cb83657748eb68139982719aa96d77cfaac824c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVa3rGFsoX8xQH\nAibwk31HIABAxzWAac6bGrOOj5bm3g8pCR1LAJapD34O1Pu83JWp49O3g9hptL5a\nxmIm/OI/495+P2WTd8MANGeIel8hp/rW9KGTShkXnViH87zqOx+dtb0gRcujeSLV\n121OPoy4QSZyobPaO1RsN1JbtgU1EsvSrB9+eaH8Z0wrVtHEgYxkcDfaGV4g6rN2\nZyVw5oKy3fUsvWi2pp0lerQytcl3lCa3Z0FoTNoDjWg/QhDIlE+dCPRShVTF4dzk\njBBQh/mGj21/rooKdfB2wLW77f0chvxJw8rKKkXKWq0h8+ay4M15DTYuRQ+Q4sBb\niqlp7XVpAgMBAAECggEAC0vBT9loNNBNGsyIWhakWWyraDpHKqqVEne9zFDBpTlz\nZvRH8SQdv7Eqo/9o+pmofNv65PxEL5WY8G7f+7eReSgGaX/sc24R4WGU1CYALCCx\nX2/GCUcIR5c/GqQMC58loDwdjKOKJhUh043CNzCWXdWbDP55hM2Ib9fs038avKzN\n/xkmfY/yH6JhDSWeJef37MVkQINwDI59Tp6KjNF/7MFGa+zMaMlw33LThFaW7LYj\nxIh4njMB8mcxuS3G1WdyQHn78vx4m7+4qRd+6ukPnVq4h5hYrhHMPUOdknQ4YTzG\nq2DmFkSaNxVlRMTkuwKHtneJ59HKQnW2vrS848h6qwKBgQDMdvIv19Q+vMIQA/qg\n91WNau7wE88z6ADzu1bJQLG0AoCATTSmtLHyvhcXx8Afh2ekFQyKbBsdSCyhh+/Q\namq6UcbpNtxJ7ZPr9sj0zxytN6OzhkEkeixy5acedpES+sVjVZMZoORAXp0k0ubw\nPN1PKyz+tzmnwctFToSM3rch2wKBgQC7FMaKATOMc5LohjEo8kPZu983MX7dhKjb\ntFrIQ4dCrOSQorT+//linSRD31dbzBrQd2dxlU/7iqvsi5UcriIpEyHHeSli4Sy4\nzHp8B8ND6o9YnIE/7R0dnK58rtu/Zx2MpfvcbSiLUIfAXMlaMID2g9uzvTp5FGie\nPg9NyM9TCwKBgC50T+5C0Tw30rekz8rGpy9sPkFZntgiPCUkSUGMa1OExgFgiTff\nEhcezUxf2+zN7ORAzAqfKUHr5ggFRJ1LsFgIwHK4PjClw9f2yA2nCNLqM01UkXRi\nNbsdJm0rbyaqxzIcfUFzZqihVn7JVCL9ESMtohl1M6pDw5VJk6AV8fHFAoGAIwjL\n+XIqJiZKn7Lpp+JepHrTXXGucWtzd9l5msFSpkDceN2PiaWEHVySOwerQ2ygpOOH\ngrTUiqW4do7ZOMq/aPPFQqbFAlhq2JyqX2nQvnpBp/V/Guqbpjz+TCkuy9RSq1E2\nLlxe2GAXXAXES1iD/iZJUYqhVaVlxiSXFxkBAmsCgYEAsgaUTombCIAQAA2RGJOJ\n0pHt8WpllQcnN+VV637R0/2y76kGAMn9+RRNSMWyPUghvqf1EgihOxUzNopQYTac\nFegzOTNMt075xn8T52gQa9JTxA733LgavG5ODOm8lriK8mkKgqBFwdlLS+XsiC4k\nXgHYLIaBgpcODrrBOQ9fo88=\n-----END PRIVATE KEY-----\n",
+  "client_email": "arianne@ariannecielo-lifx.iam.gserviceaccount.com",
+  "client_id": "105153071615787755696",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arianne%40ariannecielo-lifx.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
