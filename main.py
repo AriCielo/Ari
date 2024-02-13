@@ -21,7 +21,7 @@ if prompt == 'hello':
 elif prompt == 'who are you?':
     st.chat_message("assistant").write('I am your assistant')
     st.session_state.messages.append({'role': 'assistant', 'content': 'I am your assistant'})
-elif prompt == 'can I ask you something':
+elif prompt == 'can I ask you something?':
 	st.chat_message("assistant").write('Yes sure!')
 	st.session_state.messages.append({'role': 'assistant', 'content': 'Yes sure!'})
 if prompt == 'hi':
